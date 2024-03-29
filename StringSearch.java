@@ -2,7 +2,7 @@ package classwork;
 
 import java.util.Scanner;
 
-public class Assgn {
+public class StringSearch {
 	public static void main(String[] args) {
 		 
         Scanner Sc = new Scanner(System.in);
